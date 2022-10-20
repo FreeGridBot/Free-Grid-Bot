@@ -1,6 +1,6 @@
 ### Hallo Leute 👋
 
-Diesen Grid Bot hatte ich ursprünglich für private Zwecke gecoded.
+Diesen Grid Bot (Bot1) hatte ich ursprünglich für private Zwecke gecoded.
 
 Nach Anfrage von MK Strategies habe ich entschieden den Bot freizugeben.
 
